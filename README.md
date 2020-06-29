@@ -4,7 +4,7 @@ Neko Atsume is a game with the premise of creating a playspace full of toys, fur
 Goal: Obtain the most fish in the most efficient manner.
  
 Dataset: Community dataset created by Neko Atsume enthusiasts, detailing the average amount of fish yielded.
-
+ 
 Process:
 - Created a bar chart using matplotlib of average cat generosity of all cats.
 - Implemented SQL queries to filter and sort through data to create desired dataset.
